@@ -16,7 +16,6 @@ require("dotenv").config();
     OBS: put it on .gitignore.
 */
 
-app.use(express.static('./public'))
 app.use(express.json());
 
 // routes
