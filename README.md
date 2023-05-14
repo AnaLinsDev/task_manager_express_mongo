@@ -3,7 +3,7 @@
 ## Project 1 from Youtube class: <br /> 
 https://www.youtube.com/watch?v=qwfE7fSVaZM&t=1s&ab_channel=freeCodeCamp.org
 
-# Remenbering some Backend uses like:
+# Remembering some Backend uses like:
 - Express CRUD API
 - Connect to Mongo Atlas
 - Use of Mongoose
